@@ -12,8 +12,5 @@
             "name": "Handev",
             "email": "virus@404.unknow"
         }
-    ],
-    "require": {
-        "vlucas/phpdotenv": "^5.4"
-    }
+    ]
 }
