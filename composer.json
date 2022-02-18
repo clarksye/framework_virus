@@ -1,0 +1,17 @@
+{
+    "name": "handev/virus",
+    "description": "Private Framework PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "VIRUS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Handev",
+            "email": "virus@404.unknow"
+        }
+    ],
+    "require": {}
+}
