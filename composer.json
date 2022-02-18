@@ -1,5 +1,5 @@
 {
-    "name": "handev/virus",
+    "name": "virus/framework",
     "description": "Private Framework PHP",
     "type": "library",
     "autoload": {
